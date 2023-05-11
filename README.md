@@ -6,7 +6,7 @@
 # To Do List
 
 
-#### This web page is hosted [here!](https://tusharjustdoit.netlify.app/)
+#### This web page is hosted [here!](https://kapileswar-moharana.github.io/LGMVIP-Web/)
 
 ### *Features*:
 
