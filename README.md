@@ -3,9 +3,6 @@
 
 ## A Simple To - Do Website!
 
-# To Do List
-
-
 #### This web page is hosted [here!](https://kapileswar-moharana.github.io/LGMVIP-Web/)
 
 ### *Features*:
@@ -35,4 +32,3 @@
 * For more CSS effects: [text-effects](https://speckyboy.com/underline-text-effects-css/)
 * For Type Writing effects: [Type-effects](https://usefulangle.com/post/85/css-typewriter-animation)
 * For Local Storage: [Web Dev Simplified Blog](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/)
-
